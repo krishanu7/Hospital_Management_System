@@ -29,5 +29,5 @@ Appointment data
 			
 Appointment date 	Appointment time	Patient id	Doctor id
 02/02/2023			
-23/4/23			
+14/06/2023              1:00 PM                 be21138         101		
 
