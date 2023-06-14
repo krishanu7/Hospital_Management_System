@@ -17,7 +17,7 @@ Patient id	Patient name
 a	Aman
 b	Bishal
 c	Diya
-d	Krishanu
+d	
 e	XYZ
 f	
 g	
