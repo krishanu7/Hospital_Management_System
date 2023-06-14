@@ -1,15 +1,33 @@
-						OHIO HOSPITAL									
+	Department data			
+				
+Department 	Doctor id	Patient id	Room no	Nurse
+Neurology	A	a	101	
+Neurology	B	b	105	
+Neurology	C	c	201	
+Neurology	D 	d	206	
+Skin Specialist	E	e	302	
+Skin Specialist	F	f	309	
+Cardiology	G	g	408	
+Cardiology	H	h	219	
 
 
 
-	Department data					Patient data			Appointment data					Doctor data	
+Patient data	
+	
+Patient id	Patient name
+a	Aman
+b	Bishal
+c	Diya
+d	Krishanu
+e	
+f	
+g	
+h	
 
-Department 	Doctor id	Patient id	Room no	Nurse		Patient id	Patient name		Appointment date 	Appointment time	Patient id	Doctor id		Doctor id	Doctor name
-Neurology	A	a	101			a	Aman		2/2/2023					A	
-Neurology	B	b	105			b	Bishal		23/4/23					B	
-Neurology	C	c	201			c	Diya							C	
-Neurology	D 	d	206			d	Krishanu							D 	
-Skin Specialist	E	e	302			e								E	
-Skin Specialist	F	f	309			f								F	
-Cardiology	G	g	408			g								G	
-Cardiology	H	h	219			h								H	
+
+Appointment data			
+			
+Appointment date 	Appointment time	Patient id	Doctor id
+02/02/2023			
+23/4/23			
+
