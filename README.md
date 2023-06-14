@@ -1,6 +1,6 @@
 # Hospital Management System
 
-#Contributors:
+# Contributors:
 1. Soham Dutta
 2. Krishanu Saha
 3. Shruti Roy
