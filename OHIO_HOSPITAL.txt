@@ -12,7 +12,7 @@ Cardiology	H	h	219
 
 
 
-Patient data	
+       Patient data	
 	
 Patient id	Patient name
 a	Aman
@@ -25,7 +25,7 @@ g
 h	
 
 
-Appointment data			
+      Appointment data			
 			
 Appointment date 	Appointment time	Patient id	Doctor id
 02/02/2023			
