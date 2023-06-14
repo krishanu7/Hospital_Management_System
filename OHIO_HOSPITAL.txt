@@ -9,6 +9,8 @@ Skin Specialist	E	e	302
 Skin Specialist	F	f	309	
 Cardiology	G	g	408	
 Cardiology	H	h	219	
+Physician	I	i	502
+
 
 
 
@@ -18,7 +20,7 @@ Patient id	Patient name
 a	Aman
 b	Bishal
 c	Diya
-d	Krishanu
+d	
 e	XYZ
 f	
 g	
@@ -28,6 +30,8 @@ h
       Appointment data			
 			
 Appointment date 	Appointment time	Patient id	Doctor id
-02/02/2023			
+02/02/2023		
 23/4/23			
 25/6/23
+14/06/2023              1:00 PM                 be21138         101		
+
