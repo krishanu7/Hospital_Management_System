@@ -4,7 +4,7 @@ Department 	Doctor id	Patient id	Room no	Nurse
 Neurology	A	a	101	
 Neurology	B	b	105	
 Neurology	C	c	201	
-Neurology	D 	d	206	
+Neurolo
 Skin Specialist	E	e	302	
 Skin Specialist	F	f	309	
 Cardiology	G	g	408	
@@ -30,4 +30,4 @@ Appointment data
 Appointment date 	Appointment time	Patient id	Doctor id
 02/02/2023			
 23/4/23			
-
+6/2/2001
