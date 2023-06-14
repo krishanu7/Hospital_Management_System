@@ -1,4 +1,6 @@
 # Hospital Management System
+This dataset contains the data of "Ohio Hospital, Kolkata". Data includes : Department details, Patient details, Appointment details and Doctor details.
+
 
 # Contributors:
 1. Soham Dutta
