@@ -3,7 +3,7 @@ This dataset contains the data of "Ohio Hospital, Kolkata". Data includes : Depa
 
 
 # Contributors:
-1. SOHAM DUTTA
+1. SOHAM DUTTA (TL)
 2. Krishanu Saha
 3. Shruti Roy
 4. Arpan Das
